@@ -1,1 +1,47 @@
-/* add your styles below, if comment is in way, remove it */
+html{
+	background-color: #E5E4E2;
+	font-family: Helvetica;
+}
+h1{
+	font-family: 'Avant Garde',"Helvetica Neue", Helvetica, Arial, sans-serif;
+	display: block;
+	color:
+	#fff;
+	font-weight: 200;
+	letter-spacing: .05ex;
+	font-size: 3rem;
+	line-height: 4rem;
+	margin: 0px;
+	text-shadow: 2px 2px 2px #246;
+	padding: 8rem 2.5rem 1.5rem;
+
+}
+h2{
+	font-family: Palatino Linotype;
+}
+h3{
+	font-family: Arial;
+}
+h4{
+	font-family: Comic Sans;
+}
+h5{
+	font-family: courier, monospace;
+}h6{
+	font-family: lucida console;
+}
+#BQ{
+	background-color: blue;
+	color: #FFF;
+}
+.B{
+	padding-left: 20px;
+}
+img{
+	display: block;
+	height: 200px;
+	padding: 10px 10px 10px 10px;
+	border: solid;
+  margin-left: auto;
+  margin-right: auto;
+}
